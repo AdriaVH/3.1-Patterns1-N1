@@ -7,7 +7,7 @@ Singleton Create a class that replicates the operation of the 'Undo' command. Th
 The 'Undo' class must save the last commands entered. It must allow you to add or delete commands, as well as list the last commands entered (similar to the 'history' command in Linux). The 'Undo' class must implement a Singleton pattern.
 
 ## Technologies Used
-java 22
+JDK 22
 
 ## Requirements
 Programming language: Java 22
@@ -18,4 +18,8 @@ Clone the repository or download the zip file and run it in your favorite IDE.
 
 Contribution Contributions are welcome! Please follow these steps to contribute:
 
--Fork the repository -Create a new branch git checkout -b feature/NewFeature -Make your changes and commit them: git commit -m 'Add New Feature' -Upload the changes to your branch: git push origin feature/NewFeature -Make a pull request
+- Fork the repository
+- Create a new branch git checkout -b feature/NewFeature
+- Make your changes and commit them: git commit -m 'Add New Feature'
+- Upload the changes to your branch: git push origin feature/NewFeature
+- Make a pull request
