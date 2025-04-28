@@ -1,4 +1,4 @@
-# S3.01-Patterns-Singleton-Nivel1-Ej1
+# 3.01-Patterns1-N1
 ## Summary: exercise description
 In all exercises, create a project with a Main class that demonstrates the use of the pattern (with the necessary invocations).
 
